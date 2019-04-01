@@ -1,7 +1,0 @@
-﻿  Dssystem.cpp
-f:\c++作业\dssystem\project1\dssystem.cpp(74): error C3646: “mstack”: 未知重写说明符
-f:\c++作业\dssystem\project1\dssystem.cpp(74): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
-f:\c++作业\dssystem\project1\dssystem.cpp(75): error C3646: “mqueue”: 未知重写说明符
-f:\c++作业\dssystem\project1\dssystem.cpp(75): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
-f:\c++作业\dssystem\project1\dssystem.cpp(76): error C3646: “mlink”: 未知重写说明符
-f:\c++作业\dssystem\project1\dssystem.cpp(76): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
